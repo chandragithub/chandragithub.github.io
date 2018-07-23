@@ -1,9 +1,9 @@
 [
     {
-        "title": "Setup Angular Application with NodeJS",
+        "title": "Quick Start Angular with Angular CLI",
         "image": "angularnodesetup.jpg",
         "technology": "angular",
-        "url": "setup-angular-application-with-node"
+        "url": "quickstart_angular_with_angular_cli"
     },
     {
         "title": "Angular application with Angular CLI",
